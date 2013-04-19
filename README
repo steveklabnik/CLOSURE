@@ -1,0 +1,13 @@
+Closure
+=======
+
+Thanks, _why.
+
+1. PCL contains all of the original PCL files given to us.
+2. PDF contains the PDFs I made.
+3. CLOSURE.pdf is the PDF files combined into one.
+
+To read:
+
+    $ lp CLOSURE.pdf
+
